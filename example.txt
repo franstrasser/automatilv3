@@ -1,0 +1,6 @@
+func sum ( a , b ) 
+{ 
+ var r ; 
+ r = a + b ; 
+ return r ; 
+} 
